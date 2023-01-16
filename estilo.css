@@ -1,0 +1,13 @@
+.body {
+    background: rgb(240, 240, 240);
+
+}    
+
+.contenedor {
+    text-align: center;
+    margin-top: 320px; 
+}
+
+span {
+    font-size: 65px;
+}
